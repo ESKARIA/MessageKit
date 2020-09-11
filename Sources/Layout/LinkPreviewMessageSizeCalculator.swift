@@ -22,7 +22,6 @@
  SOFTWARE.
  */
 
-import Foundation
 import UIKit
 
 open class LinkPreviewMessageSizeCalculator: TextMessageSizeCalculator {

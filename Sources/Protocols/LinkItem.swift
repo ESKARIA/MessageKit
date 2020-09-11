@@ -22,7 +22,7 @@
  SOFTWARE.
  */
 
-import Foundation
+import UIKit
 import CoreGraphics
 import UIKit
 
